@@ -1,51 +1,37 @@
+
+
 # 💫 About Me:
 ## 👋 Hii, I'm TANAY
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1ABC9C&center=true&width=435&lines=Cloud+Engineer+%7C+DevOps+Engineer;Software+Tester+%7C+Web+Developer;Learning Web developer+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1ABC9C&center=true&width=435&lines=Cloud+Engineer+%7C+DevOps+Engineer;Software+Tester+%7C+Web+Developer;Learning+Full-Stack+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 🎓 I'm a CSE student with a keen interest in technology.  
 ☁️ Passionate in **Cloud Engineering** & **DevOps**  
-🧪 Specialized in **Software Tester** with hands-on experience  
+🧪 Specialized in **Software Testing** with hands-on experience  
 🌐 Currently learning **Web Development** to expand my skill set  
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanay_hanra) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanay-hanra-8a4513248)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanratanay@gmail.com)
 
 ---
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) 
-
----
-
-## 🚀 Languages and Tools I Use:
-<p>
-<a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="#"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="#"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
-<a target="_blank" href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-</p>
+## 💻 Tech Stack & Tools:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 ---
 
@@ -63,7 +49,7 @@
 ---
 
 <details>
-<summary>📁 My Project Highlights (Click to Expand)</summary>
+<summary>📁 <strong>My Project Highlights (Click to Expand)</strong></summary>
 
 ### 🛠️ Key Projects:
 - 📦 **E-commerce REST API** – Node.js, Express, MongoDB, JWT, Postman tested.
@@ -77,7 +63,7 @@
 ---
 
 <details>
-<summary>🏆 GitHub Stats & Achievements</summary>
+<summary>🏆 <strong>GitHub Stats & Achievements</strong></summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" />
@@ -99,19 +85,16 @@
 ## 📜 Certifications
 
 <details>
-<summary>🎓 Click to view Certifications</summary>
+<summary>🎓 <strong>Click to view Certifications</strong></summary>
 
-- 🧠 [Generative AI - Coursera](#)
-- ☁️ [Cloud Computing with NPTEL - IIT KGP](#)
-- 🛠️ [Software Testing Masterclass - Udemy](#)
-- 🐍 [Python Development - CipherSchool](#)
-- 🔐 [DevOps Bootcamp - Great Learning](#)
+- 🧠 **Generative AI** – _Coursera_
+- ☁️ **Cloud Computing (NPTEL)** – _IIT Kharagpur_
+- 🛠️ **Software Testing Masterclass** – _Udemy_
+- 🐍 **Python Development** – _CipherSchool_
+- 🔐 **DevOps Bootcamp** – _Great Learning_
 
 </details>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Tanayhanra2004&icon=0&color=2)](https://visitcount.itsvg.in)
-<!-- Proudly created with ❤️ by Tanay | Powered by GPRM (https://gprm.itsvg.in) -->
-
-
+✨ _Always Building | Always Learning | Always Open to Collaborate_ ✨
