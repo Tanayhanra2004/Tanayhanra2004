@@ -50,6 +50,9 @@
     justify-content: center;
     align-items: center;
     gap: 10px;
+    opacity: 0;
+    animation: fadeIn 2s ease-in forwards;
+    animation-delay: 2s;
   }
 
   .badge-container img {
@@ -59,12 +62,29 @@
   .badge-container img:hover {
     transform: scale(1.1) rotateY(180deg);
   }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  /* 3D Effect for GitHub Stats */
+  .github-stats {
+    transform-style: preserve-3d;
+    animation: rotate3D 10s infinite linear;
+  }
+
+  @keyframes rotate3D {
+    0% { transform: rotateY(0deg); }
+    100% { transform: rotateY(360deg); }
+  }
 </style>
 
 <div class="badge-container">
-  <div class="flip-badge">
-    <img src="https://img.shields.io/github/followers/Tanayhanra2004?label=Followers&style=social" />
-  </div>
   <div class="flip-badge">
     <img src="https://img.shields.io/github/stars/Tanayhanra2004?style=social" />
   </div>
@@ -101,16 +121,17 @@
 <details>
 <summary>🏆 <strong>GitHub Stats & Achievements</strong></summary>
 
-<p align="center">
+<!-- Add 3D Animation on Stats -->
+<p align="center" class="github-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
-<p align="center">
+<p align="center" class="github-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanayhanra2004&theme=gruvbox&hide_border=false" />
 </p>
-<p align="center">
+<p align="center" class="github-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&theme=gruvbox&layout=compact&hide_border=false" />
 </p>
-<p align="center">
+<p align="center" class="github-stats">
   <img src="https://github-profile-trophy.vercel.app/?username=Tanayhanra2004&theme=gruvbox&margin-w=15&no-frame=false" />
 </p>
 
@@ -134,3 +155,4 @@
 ---
 
 ✨ _Always Building | Always Learning | Always Open to Collaborate_ ✨
+
