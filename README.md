@@ -1,9 +1,9 @@
 # 💫 About Me:
 ## 👋 Hii, I'm TANAY
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1ABC9C&center=true&width=435&lines=Cloud+Engineer+%7C+DevOps+Engineer;Software+Tester+%7C+Web+Developer;Learning+Full-Stack+%7C+Tech+Explorer" alt="Typing SVG" />
-</div>
+</p>
 
 🎓 I'm a CSE student with a keen interest in technology.  
 ☁️ Passionate in **Cloud Engineering** & **DevOps**  
@@ -22,7 +22,6 @@
 ## 💻 Tech Stack & Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
@@ -35,22 +34,53 @@
 ---
 
 ## 🧠 Contribution Highlights (GitHub Badges)
-
-<div align="center" style="transform: rotateY(0deg); animation: flip 4s infinite alternate;">
-  <img src="https://img.shields.io/github/followers/Tanayhanra2004?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Tanayhanra2004?style=social" />
-  <img src="https://img.shields.io/github/commits-since/Tanayhanra2004/main?label=Commits&style=flat-circle" />
-  <img src="https://img.shields.io/github/issues/Tanayhanra2004?style=flat-circle" />
-  <img src="https://img.shields.io/github/pull-requests/Tanayhanra2004?style=flat-circle" />
-  <img src="https://img.shields.io/github/repo-size/Tanayhanra2004/Tanayhanra2004?style=flat-circle" />
-</div>
-
 <style>
-@keyframes flip {
-  0%   { transform: rotateY(0deg); }
-  100% { transform: rotateY(360deg); }
-}
+  @keyframes flip {
+    0% { transform: rotateY(0deg); }
+    100% { transform: rotateY(360deg); }
+  }
+
+  .flip-badge {
+    display: inline-block;
+    animation: flip 2s infinite;
+  }
+
+  .badge-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .badge-container img {
+    transition: transform 0.5s;
+  }
+
+  .badge-container img:hover {
+    transform: scale(1.1) rotateY(180deg);
+  }
 </style>
+
+<div class="badge-container">
+  <div class="flip-badge">
+    <img src="https://img.shields.io/github/followers/Tanayhanra2004?label=Followers&style=social" />
+  </div>
+  <div class="flip-badge">
+    <img src="https://img.shields.io/github/stars/Tanayhanra2004?style=social" />
+  </div>
+  <div class="flip-badge">
+    <img src="https://img.shields.io/github/commits-since/Tanayhanra2004/main?label=Commits&style=flat-square" />
+  </div>
+  <div class="flip-badge">
+    <img src="https://img.shields.io/github/issues/Tanayhanra2004?style=flat-square" />
+  </div>
+  <div class="flip-badge">
+    <img src="https://img.shields.io/github/pull-requests/Tanayhanra2004?style=flat-square" />
+  </div>
+  <div class="flip-badge">
+    <img src="https://img.shields.io/github/repo-size/Tanayhanra2004/Tanayhanra2004?style=flat-square" />
+  </div>
+</div>
 
 ---
 
@@ -68,20 +98,20 @@
 
 ---
 
-<details open>
-<summary>🏆 <strong>GitHub Stats & Achievements</strong> <span style="font-size:14px">⬇️ Auto Revealed</span></summary>
+<details>
+<summary>🏆 <strong>GitHub Stats & Achievements</strong></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanayhanra2004&theme=gruvbox&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanayhanra2004&theme=gruvbox&hide_border=false" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&theme=gruvbox&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&theme=gruvbox&layout=compact&hide_border=false" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanayhanra2004&theme=gruvbox&margin-w=15&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanayhanra2004&theme=gruvbox&margin-w=15&no-frame=false" />
 </p>
 
 </details>
@@ -100,12 +130,6 @@
 - 🔐 **DevOps Bootcamp** – _Great Learning_
 
 </details>
-
----
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanayhanra2004&theme=github_dark"/>
-</div>
 
 ---
 
