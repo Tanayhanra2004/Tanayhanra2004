@@ -33,12 +33,12 @@
 
 ---
 
-## 🧠 Contribution Highlights (Always Visible)
+## 🧠 Contribution Highlights (GitHub Badges)
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Tanayhanra2004?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/Tanayhanra2004?style=social" />
-  <img src="https://img.shields.io/github/commit-activity/m/Tanayhanra2004/Tanayhanra2004?style=flat-square" />
+  <img src="https://img.shields.io/github/commits-since/Tanayhanra2004/main?label=Commits&style=flat-square" />
   <img src="https://img.shields.io/github/issues/Tanayhanra2004?style=flat-square" />
   <img src="https://img.shields.io/github/pull-requests/Tanayhanra2004?style=flat-square" />
   <img src="https://img.shields.io/github/repo-size/Tanayhanra2004/Tanayhanra2004?style=flat-square" />
@@ -46,8 +46,7 @@
 
 ---
 
-<details>
-<summary>📁 <strong>My Project Highlights (Click to Expand)</strong></summary>
+## 📁 My Project Highlights
 
 ### 🛠️ Key Projects:
 - 📦 **E-commerce REST API** – Node.js, Express, MongoDB, JWT, Postman tested.
@@ -56,30 +55,27 @@
 - 🔍 **Software Testing with Postman** – Automated API testing with assertions & collection flows.
 - ☁️ **Cloud Simulation Project** – OpenStack-based private cloud setup and demo.
 
-</details>
-
 ---
 
-<details>
-<summary>🏆 <strong>GitHub Stats & Achievements</strong></summary>
+## 🏆 GitHub Stats & Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanayhanra2004&theme=radical&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&theme=radical&layout=compact&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanayhanra2004&theme=radical&margin-w=15&no-frame=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanayhanra2004&theme=react-dark&hide_border=false" />
-</p>
+<div align="center">
 
-</details>
+<!-- GitHub Contribution Calendar -->
+<img src="https://ghchart.rshah.org/Tanayhanra2004" alt="Tanay's GitHub chart" width="100%" />
+
+<br/>
+
+<!-- Reveal animation for stats (on page load) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanayhanra2004&theme=gruvbox&hide_border=false" alt="GitHub Streaks" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&theme=gruvbox&layout=compact&hide_border=false" alt="Top Languages" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tanayhanra2004&theme=gruvbox&margin-w=15&no-frame=false" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
@@ -88,15 +84,16 @@
 <details>
 <summary>🎓 <strong>Click to view Certifications</strong></summary>
 
-- 🧠 **Generative AI** – _Coursera_
-- ☁️ **Cloud Computing (NPTEL)** – _IIT Kharagpur_
-- 🛠️ **Software Testing Masterclass** – _Udemy_
-- 🐍 **Python Development** – _CipherSchool_
-- 🔐 **DevOps Bootcamp** – _Great Learning_
+- 🧠 **Generative AI** – _Coursera_  
+- ☁️ **Cloud Computing (NPTEL)** – _IIT Kharagpur_  
+- 🛠️ **Software Testing Masterclass** – _Udemy_  
+- 🐍 **Python Development** – _CipherSchool_  
+- 🔐 **DevOps Bootcamp** – _Great Learning_  
 
 </details>
 
 ---
 
-<p align="center"><b>✨ Always Building | Always Learning | Always Open to Collaborate ✨</b></p>
+✨ _Always Building | Always Learning | Always Open to Collaborate_ ✨
+
 
