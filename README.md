@@ -1,5 +1,3 @@
-
-
 # 💫 About Me:
 ## 👋 Hii, I'm TANAY
 
@@ -35,12 +33,12 @@
 
 ---
 
-## 🧠 Contribution Highlights (GitHub Badges)
+## 🧠 Contribution Highlights (Always Visible)
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Tanayhanra2004?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/Tanayhanra2004?style=social" />
-  <img src="https://img.shields.io/github/commits-since/Tanayhanra2004/main?label=Commits&style=flat-square" />
+  <img src="https://img.shields.io/github/commit-activity/m/Tanayhanra2004/Tanayhanra2004?style=flat-square" />
   <img src="https://img.shields.io/github/issues/Tanayhanra2004?style=flat-square" />
   <img src="https://img.shields.io/github/pull-requests/Tanayhanra2004?style=flat-square" />
   <img src="https://img.shields.io/github/repo-size/Tanayhanra2004/Tanayhanra2004?style=flat-square" />
@@ -66,16 +64,19 @@
 <summary>🏆 <strong>GitHub Stats & Achievements</strong></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanayhanra2004&theme=gruvbox&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanayhanra2004&theme=radical&hide_border=false" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&theme=gruvbox&layout=compact&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&theme=radical&layout=compact&hide_border=false" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanayhanra2004&theme=gruvbox&margin-w=15&no-frame=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanayhanra2004&theme=radical&margin-w=15&no-frame=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanayhanra2004&theme=react-dark&hide_border=false" />
 </p>
 
 </details>
@@ -97,4 +98,5 @@
 
 ---
 
-✨ _Always Building | Always Learning | Always Open to Collaborate_ ✨
+<p align="center"><b>✨ Always Building | Always Learning | Always Open to Collaborate ✨</b></p>
+
