@@ -2,12 +2,12 @@
 ## 👋 Hii, I'm TANAY
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1ABC9C&center=true&width=435&lines=Cloud+Engineer+%7C+DevOps+Engineer;Software+Tester+%7C+Web+Developer;Lifelong+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1ABC9C&center=true&width=435&lines=Cloud+Engineer+%7C+DevOps+Engineer;Software+Tester+%7C+Web+Developer;Learning Web developer+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 🎓 I'm a CSE student with a keen interest in technology.  
-☁️ Specialized in **Cloud Engineering** & **DevOps**  
-🧪 Passionate **Software Tester** with hands-on experience  
+☁️ Passionate in **Cloud Engineering** & **DevOps**  
+🧪 Specialized in **Software Tester** with hands-on experience  
 🌐 Currently learning **Web Development** to expand my skill set  
 
 ---
