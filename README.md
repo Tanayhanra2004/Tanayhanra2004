@@ -39,18 +39,20 @@
 
 ---
 
-## 📊 Language Commit Stats
+## 📊 Language Commit Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&layout=pie&theme=gruvbox&langs_count=6&hide_border=false" />
+  <img src="https://img.shields.io/badge/Java-40%25-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-30%25-blue?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/JavaScript-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-10%25-red?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 <p align="center">
-  🔥 My commits spread across **Java**, **Python**, **JavaScript**, and a sprinkle of **HTML/CSS** for web projects.  
-  I like balancing between **backend robustness** and **frontend creativity**!
+  ⚡ My coding journey is a mix of **Java (backend strength)**,  
+  **Python (automation & ML)**, **JavaScript (frontend fun)**,  
+  and a sprinkle of **HTML/CSS (web creativity)**.  
 </p>
-
----
 
 ## 🧠 Contribution Highlights (GitHub Achievements)
 
