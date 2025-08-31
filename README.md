@@ -27,17 +27,28 @@
 
 ---
 
-## 💻 Tech Stack & Tools:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+## 💻 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,docker,kubernetes,postman,git,linux,react,nodejs" />
+</p>
+
+<p align="center">
+ 🚀 "I believe in mastering **tools**, not just learning them – because a craftsman is only as good as his toolkit." 🛠️
+</p>
+
+---
+
+## 📊 Language Commit Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&layout=pie&theme=gruvbox&langs_count=6&hide_border=false" />
+</p>
+
+<p align="center">
+  🔥 My commits spread across **Java**, **Python**, **JavaScript**, and a sprinkle of **HTML/CSS** for web projects.  
+  I like balancing between **backend robustness** and **frontend creativity**!
+</p>
 
 ---
 
@@ -63,16 +74,13 @@
 
 ## 🏆 GitHub Stats & Achievements
 
-<p align="center" class="github-stats">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
-<p align="center" class="github-stats">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanayhanra2004&theme=gruvbox&hide_border=false" />
 </p>
-<p align="center" class="github-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&theme=gruvbox&layout=compact&hide_border=false" />
-</p>
-<p align="center" class="github-stats">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tanayhanra2004&theme=gruvbox&margin-w=15&no-frame=false" />
 </p>
 
