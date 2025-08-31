@@ -39,32 +39,24 @@
 
 ---
 
-## 🚀 Language Commit Stats  
+## 📊 Language Commit Stats  
 
 <p align="center">
-  <!-- Badges for Languages -->
-  <img src="https://img.shields.io/badge/Java-Commit%20Leader-orange?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Consistent%20Commits-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Active%20Growth-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-Strong%20Contributor-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-Coding%20Boost-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-Design%20Commits-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&layout=compact&theme=radical&hide_border=false" />
 </p>
-
----
 
 <p align="center">
-  <!-- Commit Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUserName&layout=compact&theme=radical&langs_count=8&hide_border=true&card_width=500" />
+  <img src="https://img.shields.io/badge/Java-██████████░░░░-40%25-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-████████░░░░░░-30%25-blue?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/JavaScript-█████░░░░░░░░░-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-██░░░░░░░░░░░-10%25-red?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
-
----
 
 <p align="center">
-  <!-- Animated Chart Style -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourGitHubUserName&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YourGitHubUserName&theme=tokyonight" />
+  ⚡ Commit heat shows **Java & Python** as the dominant stack,  
+  with **JS & HTML/CSS** powering my web journey 🚀  
 </p>
+
 
 ---
 
