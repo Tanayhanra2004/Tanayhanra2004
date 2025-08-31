@@ -42,19 +42,19 @@
 ## 📊 Language Commit Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanayhanra2004&layout=compact&theme=radical&hide_border=false&langs_count=6" />
+  <img src="https://img.shields.io/badge/Java-40%25-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-30%25-blue?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/JavaScript-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-10%25-red?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanayhanra2004&theme=github-compact&hide_border=false&area=true" />
+  🏆 **Language Power-Up Stats**  
+  - 🔸 Java → Main engine for backend projects  
+  - 🔹 Python → Automation & AI/ML experiments  
+  - 🟡 JavaScript → Frontend and interactive web apps  
+  - 🔴 HTML/CSS → Creative web design layers  
 </p>
-
-<p align="center">
-  🚀 My commits flow like an **energy graph** ⚡ –  
-  You’ll see spikes of **Java & Python**, constant streams of **JS/HTML**,  
-  and experimental bursts in **DevOps tools**! 🔥
-</p>
-
 
 ## 🧠 Contribution Highlights (GitHub Achievements)
 
