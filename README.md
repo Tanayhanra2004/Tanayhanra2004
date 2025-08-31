@@ -13,9 +13,17 @@
 ---
 
 ## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanay_hanra) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanay-hanra-8a4513248)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanratanay@gmail.com)
+<p align="center">
+  <a href="https://instagram.com/tanay_hanra">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tanay-hanra-8a4513248">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
+  </a>
+  <a href="mailto:hanratanay@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
@@ -33,95 +41,28 @@
 
 ---
 
-## 🧠 Contribution Highlights (GitHub Badges)
-<style>
-  @keyframes flip {
-    0% { transform: rotateY(0deg); }
-    100% { transform: rotateY(360deg); }
-  }
+## 🧠 Contribution Highlights (GitHub Achievements)
 
-  .flip-badge {
-    display: inline-block;
-    animation: flip 2s infinite;
-  }
-
-  .badge-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    opacity: 0;
-    animation: fadeIn 2s ease-in forwards;
-    animation-delay: 2s;
-  }
-
-  .badge-container img {
-    transition: transform 0.5s;
-  }
-
-  .badge-container img:hover {
-    transform: scale(1.1) rotateY(180deg);
-  }
-
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
-
-  /* 3D Effect for GitHub Stats */
-  .github-stats {
-    transform-style: preserve-3d;
-    animation: rotate3D 10s infinite linear;
-  }
-
-  @keyframes rotate3D {
-    0% { transform: rotateY(0deg); }
-    100% { transform: rotateY(360deg); }
-  }
-</style>
-
-<div class="badge-container">
-  <div class="flip-badge">
-    <img src="https://img.shields.io/github/stars/Tanayhanra2004?style=social" />
-  </div>
-  <div class="flip-badge">
-    <img src="https://img.shields.io/github/commits-since/Tanayhanra2004/main?label=Commits&style=flat-square" />
-  </div>
-  <div class="flip-badge">
-    <img src="https://img.shields.io/github/issues/Tanayhanra2004?style=flat-square" />
-  </div>
-  <div class="flip-badge">
-    <img src="https://img.shields.io/github/pull-requests/Tanayhanra2004?style=flat-square" />
-  </div>
-  <div class="flip-badge">
-    <img src="https://img.shields.io/github/repo-size/Tanayhanra2004/Tanayhanra2004?style=flat-square" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-20+-brightgreen?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20JS-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects-Full%20Stack%20%7C%20Cloud%20%7C%20Testing-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-yellow?style=for-the-badge&logo=opensourceinitiative"/>
+</p>
 
 ---
 
-<details>
-<summary>📁 <strong>My Project Highlights (Click to Expand)</strong></summary>
-
-### 🛠️ Key Projects:
-- 📦 **E-commerce REST API** – Node.js, Express, MongoDB, JWT, Postman tested.
-- 🎮 **Python Ludo & Snake Games** – Classic board and arcade games made with Python.
-- 🌐 **Restaurant Web App** – HTML/CSS/JS based modern responsive website.
-- 🔍 **Software Testing with Postman** – Automated API testing with assertions & collection flows.
-- ☁️ **Cloud Simulation Project** – OpenStack-based private cloud setup and demo.
-
-</details>
+## 🛠️ Project Highlights:
+- 📦 **E-commerce REST API** – Node.js, Express, MongoDB, JWT, Postman tested.  
+- 🎮 **Python Ludo & Snake Games** – Classic board and arcade games made with Python.  
+- 🌐 **Restaurant Web App** – HTML/CSS/JS based modern responsive website.  
+- 🔍 **Software Testing with Postman** – Automated API testing with assertions & collection flows.  
+- ☁️ **Cloud Simulation Project** – OpenStack-based private cloud setup and demo.  
 
 ---
 
-<details>
-<summary>🏆 <strong>GitHub Stats & Achievements</strong></summary>
+## 🏆 GitHub Stats & Achievements
 
-<!-- Add 3D Animation on Stats -->
 <p align="center" class="github-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
@@ -135,25 +76,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Tanayhanra2004&theme=gruvbox&margin-w=15&no-frame=false" />
 </p>
 
-</details>
-
 ---
 
 ## 📜 Certifications
-
-<details>
-<summary>🎓 <strong>Click to view Certifications</strong></summary>
-
-- 🧠 **Generative AI** – _Coursera_
-- ☁️ **Cloud Computing (NPTEL)** – _IIT Kharagpur_
-- 🛠️ **Software Testing Masterclass** – _Udemy_
-- 🐍 **Python Development** – _CipherSchool_
-- 🔐 **DevOps Bootcamp** – _Great Learning_
-
-</details>
+- 🧠 **Generative AI** – _Coursera_  
+- ☁️ **Cloud Computing (NPTEL)** – _IIT Kharagpur_  
+- 🛠️ **Software Testing Masterclass** – _Udemy_  
+- 🐍 **Python Development** – _CipherSchool_  
+- 🔐 **DevOps Bootcamp** – _Great Learning_  
 
 ---
 
 ✨ _Always Building | Always Learning | Always Open to Collaborate_ ✨
-
-
