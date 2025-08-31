@@ -42,17 +42,19 @@
 ## 📊 Language Commit Stats  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-40%25-orange?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-30%25-blue?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/JavaScript-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-10%25-red?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanayhanra2004&layout=compact&theme=radical&hide_border=false&langs_count=6" />
 </p>
 
 <p align="center">
-  ⚡ My coding journey is a mix of **Java (backend strength)**,  
-  **Python (automation & ML)**, **JavaScript (frontend fun)**,  
-  and a sprinkle of **HTML/CSS (web creativity)**.  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanayhanra2004&theme=github-compact&hide_border=false&area=true" />
 </p>
+
+<p align="center">
+  🚀 My commits flow like an **energy graph** ⚡ –  
+  You’ll see spikes of **Java & Python**, constant streams of **JS/HTML**,  
+  and experimental bursts in **DevOps tools**! 🔥
+</p>
+
 
 ## 🧠 Contribution Highlights (GitHub Achievements)
 
