@@ -1,95 +1,134 @@
-# 💫 About Me:
-## 👋 Hii, I'm TANAY
-
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1ABC9C&center=true&width=435&lines=Cloud+Engineer+%7C+DevOps+Engineer;Software+Tester+%7C+Web+Developer;Learning+Full-Stack+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=250&section=header&text=Tanay%20Hanra&fontSize=45&fontColor=00F7FF&animation=fadeIn&desc=Cloud%20Engineer%20|%20Django%20Developer%20|%20QA%20Automation&descAlignY=75" />
 </p>
 
-🎓 I'm a CSE student with a keen interest in technology.  
-☁️ Passionate in **Cloud Engineering** & **DevOps**  
-🧪 Specialized in **Software Testing** with hands-on experience  
-🌐 Currently learning **Web Development** to expand my skill set  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Django+Developer;Python+Developer;Cloud+Engineer;Software+Tester" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanayhanra2004&label=Visitors&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Tanayhanra2004?label=Followers&style=flat-square" />
+</p>
 
 ---
 
-## 🌐 Connect With Me:
+## 🧑‍💻 About Me
+
+```yaml
+Name: Tanay Hanra
+Role: Cloud Engineer | QA Automation | Backend Developer
+Focus: Django + AWS + Testing
+Strength: Build → Deploy → Test → Scale
+```
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://instagram.com/tanay_hanra">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tanay-hanra-8a4513248">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
+  <a href="https://linkedin.com/in/tanay-hanra-8a4513248">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:hanratanay@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://instagram.com/tanay_hanra">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack & Tools
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,docker,kubernetes,postman,git,linux,react,nodejs" />
-</p>
-
-<p align="center">
- 🚀 "I believe in mastering **tools**, not just learning them – because a craftsman is only as good as his toolkit." 🛠️
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,aws,docker,kubernetes,mysql,linux&theme=dark" />
 </p>
 
 ---
 
-## 📊 Language Commit Stats  
+## 🏷️ Core Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&layout=compact&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-██████████░░░░-40%25-orange?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-████████░░░░░░-30%25-blue?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/JavaScript-█████░░░░░░░░░-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-██░░░░░░░░░░░-10%25-red?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-<p align="center">
-  ⚡ Commit heat shows **Java & Python** as the dominant stack,  
-  with **JS & HTML/CSS** powering my web journey 🚀  
-</p>
-
-
----
-
-## 🛠️ Project Highlights:
-- 📦 **E-commerce REST API** – Node.js, Express, MongoDB, JWT, Postman tested.  
-- 🎮 **Python Ludo & Snake Games** – Classic board and arcade games made with Python.  
-- 🌐 **Restaurant Web App** – HTML/CSS/JS based modern responsive website.  
-- 🔍 **Software Testing with Postman** – Automated API testing with assertions & collection flows.  
-- ☁️ **Cloud Simulation Project** – OpenStack-based private cloud setup and demo.  
-
----
-
-## 🏆 GitHub Stats & Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanayhanra2004&theme=gruvbox&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanayhanra2004&theme=gruvbox&margin-w=15&no-frame=false" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-Backend-darkgreen?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker"/>
 </p>
 
 ---
 
-## 📜 Certifications
-- 🧠 **Generative AI** – _Coursera_  
-- ☁️ **Cloud Computing (NPTEL)** – _IIT Kharagpur_  
-- 🛠️ **Software Testing Masterclass** – _Udemy_  
-- 🐍 **Python Development** – _CipherSchool_  
-- 🔐 **DevOps Bootcamp** – _Great Learning_  
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanayhanra2004&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-✨ _Always Building | Always Learning | Always Open to Collaborate_ ✨
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tanayhanra2004/Tanayhanra2004/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 QA Automation Framework
+<p align="center">
+  <img src="https://via.placeholder.com/600x250.png?text=QA+Automation+Preview" />
+</p>
+
+- Selenium + PyTest  
+- API Testing  
+- Bug Reporting  
+
+---
+
+### ☁️ Django AWS Deployment
+<p align="center">
+  <img src="https://via.placeholder.com/600x250.png?text=Cloud+Deployment+Preview" />
+</p>
+
+- EC2 + S3 + IAM  
+- Full deployment pipeline  
+
+---
+
+### 🧪 API Testing Suite
+<p align="center">
+  <img src="https://via.placeholder.com/600x250.png?text=API+Testing+Preview" />
+</p>
+
+- Postman automation  
+- Response validation  
+
+---
+
+## 🏆 Certifications
+
+- Generative AI – Coursera  
+- Cloud Computing – NPTEL  
+- Software Testing – Udemy  
+- Python Development  
+
+---
+
+## ⚡ Signature
+
+<p align="center">
+🚀 Build • Deploy • Test • Scale  
+</p>
+
+<p align="center">
+✨ Always Building | Always Learning | Open to Opportunities ✨
+</p>
