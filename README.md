@@ -75,44 +75,12 @@ Strength: Build → Deploy → Test → Scale
 
 ## 📈 Contribution Graph
 
-## 📈 Contribution Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanayhanra2004&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-
----
-
-
-## 🚀 Featured Projects
-
-## 🚀 My Repositories
-
-<p align="center">
-  <a href="https://github.com/Tanayhanra2004?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanayhanra2004&repo=REPO_NAME_1&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanayhanra2004&repo=REPO_NAME_2&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-
-
-## 🏆 Certifications
-
-## 🏆 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud_Computing-NPTEL-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software_Testing-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative_AI-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-CipherSchool-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-</p>
----
 
 ## ⚡ Signature
 
