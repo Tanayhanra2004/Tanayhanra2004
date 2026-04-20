@@ -116,11 +116,18 @@ Strength: Build → Deploy → Test → Scale
 
 ## 🏆 Certifications
 
-- Generative AI – Coursera  
-- Cloud Computing – NPTEL  
-- Software Testing – Udemy  
-- Python Development  
+## 🏆 Certifications
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative_AI-Coursera-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-NPTEL-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software_Testing-Udemy-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-CipherSchool-yellow?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&width=500&lines=Always+Learning+New+Technologies;Building+Real+World+Projects;Focused+on+Growth" />
+</p>
 ---
 
 ## ⚡ Signature
