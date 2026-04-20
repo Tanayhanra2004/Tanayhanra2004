@@ -73,10 +73,10 @@ Strength: Build → Deploy → Test → Scale
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tanayhanra2004/Tanayhanra2004/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanayhanra2004&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
