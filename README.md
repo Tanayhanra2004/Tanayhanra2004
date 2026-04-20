@@ -7,9 +7,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Django+Developer;Python+Developer;Cloud+Engineer;Software+Tester" />
 </p>
 
+## 👀 Profile Insights
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanayhanra2004&label=Visitors&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Tanayhanra2004?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Tanayhanra2004?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/Tanayhanra2004?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=Tanayhanra2004&label=Profile%20Views&style=for-the-badge&color=blueviolet" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanayhanra2004&theme=tokyonight" />
 </p>
 
 ---
