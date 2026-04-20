@@ -81,36 +81,36 @@ Strength: Build → Deploy → Test → Scale
 
 ---
 
+
+---
+
 ## 🚀 Featured Projects
 
-### 🔍 QA Automation Framework
 <p align="center">
-  <img src="https://via.placeholder.com/600x250.png?text=QA+Automation+Preview" />
+
+<a href="https://github.com/Tanayhanra2004/QA-Automation-Project">
+  <img src="https://img.shields.io/badge/🔍%20QA%20Automation%20Framework-Selenium%20%7C%20PyTest%20%7C%20API-blueviolet?style=for-the-badge&logo=github" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Tanayhanra2004/Django-AWS-Deployment">
+  <img src="https://img.shields.io/badge/☁️%20Django%20AWS%20Deployment-EC2%20%7C%20S3%20%7C%20IAM-orange?style=for-the-badge&logo=amazonaws" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Tanayhanra2004/API-Testing-Project">
+  <img src="https://img.shields.io/badge/🧪%20API%20Testing%20Suite-Postman%20%7C%20Automation-green?style=for-the-badge&logo=postman" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Tanayhanra2004/Ecommerce-API">
+  <img src="https://img.shields.io/badge/🛒%20E--commerce%20API-Node.js%20%7C%20JWT-yellow?style=for-the-badge&logo=node.js" />
+</a>
+
 </p>
-
-- Selenium + PyTest  
-- API Testing  
-- Bug Reporting  
-
----
-
-### ☁️ Django AWS Deployment
-<p align="center">
-  <img src="https://via.placeholder.com/600x250.png?text=Cloud+Deployment+Preview" />
-</p>
-
-- EC2 + S3 + IAM  
-- Full deployment pipeline  
-
----
-
-### 🧪 API Testing Suite
-<p align="center">
-  <img src="https://via.placeholder.com/600x250.png?text=API+Testing+Preview" />
-</p>
-
-- Postman automation  
-- Response validation  
 
 ---
 
