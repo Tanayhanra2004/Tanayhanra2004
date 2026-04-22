@@ -70,13 +70,20 @@ Strength: Build → Deploy → Test → Scale
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanayhanra2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanayhanra2004&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayhanra2004&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&cache_seconds=60" />
 </p>
+
+---
+
+## ⏱️ Real-Time Language Usage (Auto Updated)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -85,7 +92,6 @@ Strength: Build → Deploy → Test → Scale
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanayhanra2004&theme=tokyo-night&hide_border=true" />
 </p>
-
 ---
 
 
